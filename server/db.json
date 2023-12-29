@@ -1,0 +1,117 @@
+{
+  "toDos": [
+    {
+      "id": 1,
+      "name": "Прогулять с собакой",
+      "description": "Не забыть прогулять с Джеком в 09:00",
+      "date": "2023-12-29",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Почитать до видеоконференции про EventLoop",
+      "description": "Нужно хотя бы пару видеороликов посмотреть, чтобы закрепить знания",
+      "date": "2023-12-29",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Поговорить с Машей о жизни...",
+      "description": "Не плохо было-бы высказаться после такой тяжелой недели!",
+      "isDone": false,
+      "userId": 1,
+      "date": "2023-12-27"
+    },
+    {
+      "id": 4,
+      "name": "Купить продукты",
+      "description": "Молоко, яйца, хлеб",
+      "isDone": true,
+      "userId": 2,
+      "date": "2023-12-28"
+    },
+    {
+      "id": 5,
+      "name": "Подготовить презентацию",
+      "description": "Для встречи с клиентом",
+      "isImportant": false,
+      "isDone": true,
+      "userId": 2,
+      "date": "2023-12-28"
+    },
+    {
+      "id": 6,
+      "name": "Прочитать новую книгу",
+      "description": "Роман \"Великий Гэтсби\"",
+      "isDone": false,
+      "userId": 2,
+      "date": "2023-12-30"
+    },
+    {
+      "id": 7,
+      "name": "Сделать зарядку",
+      "description": "Не забыть про физическую активность!",
+      "isImportant": false,
+      "isDone": false,
+      "userId": 3,
+      "date": "2023-12-31"
+    },
+    {
+      "id": 8,
+      "name": "Записать новую идею",
+      "description": "Для проекта по разработке приложения",
+      "date": "2023-12-30",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "name": "Позвонить бабушке",
+      "description": "Узнать как она себя чувствует",
+      "isImportant": false,
+      "userId": 3,
+      "isDone": false,
+      "date": "2023-12-29"
+    },
+    {
+      "id": 10,
+      "name": "4545",
+      "description": "7878",
+      "date": "2023-12-29",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "name": "dfdf",
+      "description": "fdfdf",
+      "date": "2023-12-30",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Вася",
+      "email": "user@mail.ru",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Дима",
+      "email": "user2@mail.ru",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name": "Толя",
+      "email": "user3@mail.ru",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "name": "123",
+      "email": "123",
+      "password": "123",
+      "isDone": false
+    }
+  ]
+}
